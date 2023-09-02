@@ -1,7 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bookeasee">
-   <application
-        android:label="bookeasee"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="bookease"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
