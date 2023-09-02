@@ -1,4 +1,4 @@
-package com.example.bookeasee
+package com.example.bookease
 
 import io.flutter.embedding.android.FlutterActivity
 
